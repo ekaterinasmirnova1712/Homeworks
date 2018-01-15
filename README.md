@@ -5,4 +5,4 @@
 * Язык текстовой разметки Markdown
 
 # [Смирнова Екатерина](mailto:evsmirnova_3@edu.hse.ru)
-*[Telegram](maratNaufal_ugli)*
+*[Telegram](t.me/maratNaufal_ugli)*
